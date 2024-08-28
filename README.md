@@ -10,12 +10,11 @@ Parachute emote drop using Streamer.bot (7TV emotes and Twitch only).
 　　　　　　　　　　　　intex.html file and add it, set the size to 1920x1080.
 
 　🔘 You must be using a Twitch Bot inside Streamer.Bot 
-　( If you don't have one, just make an account and connect it).
-
-　🔘 It works with Currency Core extension just enable the Sub-Action.
- 　　( https://extensions.streamer.bot/docs?topic=49 )
+　( If you don't have one, just make an account and connect it). 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　
+　🔘 It works with Currency Core extension just enable the Sub-Action. 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　
+ 　　( https://extensions.streamer.bot/docs?topic=49 ) 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　
 　🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　Copy my text in Streamer.bot - [Copy ME.txt](https://github.com/user-attachments/files/16776475/Copy.ME.txt)
+　　　Copy my text in Streamer.bot - [Copy ME.txt](https://github.com/user-attachments/files/16776475/Copy.ME.txt)
 
 
 
