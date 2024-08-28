@@ -13,8 +13,8 @@ Parachute emote drop using Streamer.bot (7TV emotes and Twitch only).
 
 　🔘 It works with Currency Core extension ( https://extensions.streamer.bot/docs?topic=49 ) just enable the Sub-Action.
 
-　🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-　　　Copy my text in Streamer.bot - [Copy ME.txt](https://github.com/user-attachments/files/16776475/Copy.ME.txt)
+　🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.　　　　　　　　　　　　　　　　　　　　　　
+　　　　　Copy my text in Streamer.bot - [Copy ME.txt](https://github.com/user-attachments/files/16776475/Copy.ME.txt)
 
 
 
@@ -22,5 +22,5 @@ Parachute emote drop using Streamer.bot (7TV emotes and Twitch only).
 
 　![2024-08-28 05-22-14_1](https://github.com/user-attachments/assets/1c4295a1-9431-40b4-920f-c5525541cd33)
  
-　🔘Commands: ◻️ !drop ( It can only be used once and it resets after the animation is complete with 2 seconds 　　　delay ).
+　🔘Commands: ◻️ !drop ( It can only be used once and it resets after the animation is complete with 2 seconds delay ).
   
