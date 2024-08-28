@@ -15,7 +15,7 @@ locate and add the intex.html file and add it, set the size to 1920x1080.
 🔘 It works with Currency Core extension just enable the Sub-Action. 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　 　　　
 ( https://extensions.streamer.bot/docs?topic=49 ) 　　　 　　
 
-🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.　　　　　　　　　　　　　　　　　　　　　　
+🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
 Copy my text in Streamer.bot: [Copy ME.txt](https://github.com/user-attachments/files/16776475/Copy.ME.txt)
 
 
