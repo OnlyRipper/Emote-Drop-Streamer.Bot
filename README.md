@@ -22,5 +22,5 @@ Parachute emote drop using Streamer.bot (7TV emotes and Twitch only).
 
 　![2024-08-28 05-22-14_1](https://github.com/user-attachments/assets/1c4295a1-9431-40b4-920f-c5525541cd33)
  
-　🔘Commands: ◻️ !drop ( It can only be used once and it resets after the animation is complete with 2 seconds delay ).
+　🔘Commands: ◻️ !drop ( It can only be used once and it resets after the animation is complete with 2 seconds 　　　delay ).
   
