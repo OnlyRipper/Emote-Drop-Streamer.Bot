@@ -7,7 +7,7 @@ Parachute emote drop using Streamer.bot (7TV emotes and Twitch only).
 　🔘 Web socket server required with default port 8080.
 
 　🔘 Download the .zip file - Extract the folder anywhere in your PC - Add a browser source in OBS (check Local file box) locate and add the    
-　　　　　　　　　　　　　intex.html file and add it, set the size to 1920x1080.
+　　　　　　　　　　　　intex.html file and add it, set the size to 1920x1080.
 
 　🔘 You must be using a Twitch Bot inside Streamer.Bot ( If you don't have one, just make an account and connect it).
 
